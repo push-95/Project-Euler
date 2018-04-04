@@ -1,4 +1,4 @@
-# Problem 1 - Largest Prime factor
+# Problem 3 - Largest Prime factor
 # Pushyami Shandilya
 # http://github.com/push-95
 
